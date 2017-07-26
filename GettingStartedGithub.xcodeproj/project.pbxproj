@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					99938B091F26BDA000D5A5CC = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = ACM9TE242U;
 						ProvisioningStyle = Automatic;
 					};
 					99938B1D1F26BDA000D5A5CC = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ACM9TE242U;
 				INFOPLIST_FILE = GettingStartedGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Maple-Leaf-Foods.GettingStartedGithub";
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ACM9TE242U;
 				INFOPLIST_FILE = GettingStartedGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Maple-Leaf-Foods.GettingStartedGithub";
@@ -507,6 +510,7 @@
 				99938B341F26BDA000D5A5CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		99938B351F26BDA000D5A5CC /* Build configuration list for PBXNativeTarget "GettingStartedGithubTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				99938B371F26BDA000D5A5CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		99938B381F26BDA000D5A5CC /* Build configuration list for PBXNativeTarget "GettingStartedGithubUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				99938B3A1F26BDA000D5A5CC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
